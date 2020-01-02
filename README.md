@@ -14,7 +14,7 @@ Set PORT ENV variable to 3000
 
 ### On the Raspberry Pi:
 
-- Set Chromim to allow spotify to play music:
+- Set Chromium to allow spotify to play music:
 
     - Settings > Advanced > Content Settings > Flash
         - Allow:
